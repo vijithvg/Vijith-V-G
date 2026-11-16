@@ -20,6 +20,10 @@ A modular, native iOS chat application that leverages Apple's FoundationModels f
 ### [🤖 Cricky Score](https://github.com/vijithvg/Cricky-Score)
 A high-performance iOS application engineered for real-time, ball-by-ball scoring during live cricket matches.
 * **Tech Stack:** Swift, SwiftUI, MVVM, Swift Concurrency, Swift Data.
+
+### [🤖 Umpire Tracker(WatchOS)](https://github.com/vijithvg/Umpire-Tracker)
+A tap-based watchOS application designed for local cricket matches and net sessions. It allows umpires to seamlessly log balls, runs, extras, and wickets directly from their wrist, eliminating the need to pull out a smartphone between deliveries.
+* **Tech Stack:** Swift, SwiftUI, MVVM, Swift Concurrency.
   
 ## 📈 GitHub Stats
 
