@@ -11,6 +11,16 @@ I am a Senior iOS Engineer based in Thiruvananthapuram, India, with 6 years of e
 * **CI/CD & Tools:** Xcode, Git, Swift Package Manager (SPM), CocoaPods, TestFlight, App Store Connect
 * **Additional:** Flutter, Dart, LLMs, XCTest, Firebase Crashlytics
 
+## Projects
+
+### [🤖 Apple Intelligence Chat Assistant](https://github.com/vijithvg/Apple-Intelligence-Chat-Assistant)
+A modular, native iOS chat application that leverages Apple's FoundationModels framework to understand user intents entirely on-device. The app processes natural language prompts to hold conversations, automatically set calendar reminders, and schedule local alarms without relying on external server APIs.
+* **Tech Stack:** SwiftUI, Swift Concurrency (async/await), MVVM, Foundation Model, Apple Intelligence
+
+### [🤖 Cricky Score](https://github.com/vijithvg/Cricky-Score)
+A high-performance iOS application engineered for real-time, ball-by-ball scoring during live cricket matches.
+* **Tech Stack:** Swift, SwiftUI, MVVM, Swift Concurrency, Swift Data.
+  
 ## 📈 GitHub Stats
 
 ![Vijith's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijithvg&show_icons=true&theme=radical)
