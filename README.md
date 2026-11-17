@@ -12,16 +12,38 @@ I am a Senior iOS Engineer based in Thiruvananthapuram, India, with 6 years of e
 * **Additional:** Flutter, Dart, LLMs, XCTest, Firebase Crashlytics
 
 ## Projects
+### App Store
+#### [KSFE Pravasi Chit](https://apps.apple.com/in/app/ksfe-pravasi-chit/id1444545901)
+- **Tech Stack:** Swift, UIKit, Core Data, REST APIs, Keychain Services
+- **Key Highlights:** 
+  - Spearheaded a comprehensive UI revamp using UIKit, seamlessly integrating modern design patterns while preserving and optimizing core legacy functionalities.
+  - Engineered secure biometric authentication (Face ID/Touch ID) utilizing Apple's Keychain for encrypted credential storage.
+  - 
+ #### [SkoolBeep: Education Platform](https://apps.apple.com/in/app/skoolbeep/id991826838)
+- **Tech Stack:** Swift,Objective-C, UIKit, AVFoundation (AVPlayer), Background Synchronization, Local File Storage
+- **Key Highlights:** 
+  - Engineered an offline-first educational library using AVPlayer and local file caching, enabling seamless video streaming and course downloads for uninterrupted study.
+  - Built robust content delivery pipelines with background data sync to maintain reliable offline access to learning materials.
+  - Developed a dynamic scorecard module and interactive student dashboards using `UICollectionView`, providing real-time progress tracking and personalized academic visualizations.
+  - Implemented an intuitive student timetable module to seamlessly display daily class schedules and streamline academic planning.
+ 
+  #### [Lyforg: Healthcare Platform](https://apps.apple.com/in/app/lyforg-patient/id6446668157)
+- **Tech Stack:** Swift, Core Data, REST APIs, User Notifications
+- **Key Highlights:** 
+  - Engineered secure patient and doctor workflows featuring offline data persistence via Core Data, ensuring data consistency across intermittent network conditions.
+  - Developed comprehensive healthcare modules, including interactive medication tracking, therapy reminders, prescription management, and detailed patient history records.
+  - Collaborated cross-functionally with backend engineering teams to refine and stabilize APIs, significantly improving overall system reliability and data synchronization.
 
-### [🤖 Apple Intelligence Chat Assistant](https://github.com/vijithvg/Apple-Intelligence-Chat-Assistant)
+### Github
+#### [🤖 Apple Intelligence Chat Assistant](https://github.com/vijithvg/Apple-Intelligence-Chat-Assistant)
 A modular, native iOS chat application that leverages Apple's FoundationModels framework to understand user intents entirely on-device. The app processes natural language prompts to hold conversations, automatically set calendar reminders, and schedule local alarms without relying on external server APIs.
 * **Tech Stack:** SwiftUI, Swift Concurrency (async/await), MVVM, Foundation Model, Apple Intelligence
 
-### [🤖 Cricky Score](https://github.com/vijithvg/Cricky-Score)
+#### [🤖 Cricky Score](https://github.com/vijithvg/Cricky-Score)
 A high-performance iOS application engineered for real-time, ball-by-ball scoring during live cricket matches.
 * **Tech Stack:** Swift, SwiftUI, MVVM, Swift Concurrency, Swift Data.
 
-### [🤖 Umpire Tracker(WatchOS)](https://github.com/vijithvg/Umpire-Tracker)
+#### [🤖 Umpire Tracker(WatchOS)](https://github.com/vijithvg/Umpire-Tracker)
 A tap-based watchOS application designed for local cricket matches and net sessions. It allows umpires to seamlessly log balls, runs, extras, and wickets directly from their wrist, eliminating the need to pull out a smartphone between deliveries.
 * **Tech Stack:** Swift, SwiftUI, MVVM, Swift Concurrency.
   
