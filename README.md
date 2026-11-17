@@ -19,7 +19,7 @@ I am a Senior iOS Engineer based in Thiruvananthapuram, India, with 6 years of e
   - Spearheaded a comprehensive UI revamp using UIKit, seamlessly integrating modern design patterns while preserving and optimizing core legacy functionalities.
   - Engineered secure biometric authentication (Face ID/Touch ID) utilizing Apple's Keychain for encrypted credential storage.
   - 
- #### [SkoolBeep: Education Platform](https://apps.apple.com/in/app/skoolbeep/id991826838)
+#### [SkoolBeep: Education Platform](https://apps.apple.com/in/app/skoolbeep/id991826838)
 - **Tech Stack:** Swift,Objective-C, UIKit, AVFoundation (AVPlayer), Background Synchronization, Local File Storage
 - **Key Highlights:** 
   - Engineered an offline-first educational library using AVPlayer and local file caching, enabling seamless video streaming and course downloads for uninterrupted study.
@@ -27,12 +27,21 @@ I am a Senior iOS Engineer based in Thiruvananthapuram, India, with 6 years of e
   - Developed a dynamic scorecard module and interactive student dashboards using `UICollectionView`, providing real-time progress tracking and personalized academic visualizations.
   - Implemented an intuitive student timetable module to seamlessly display daily class schedules and streamline academic planning.
  
-  #### [Lyforg: Healthcare Platform](https://apps.apple.com/in/app/lyforg-patient/id6446668157)
+#### [Lyforg: Healthcare Platform](https://apps.apple.com/in/app/lyforg-patient/id6446668157)
 - **Tech Stack:** Swift, Core Data, REST APIs, User Notifications
 - **Key Highlights:** 
   - Engineered secure patient and doctor workflows featuring offline data persistence via Core Data, ensuring data consistency across intermittent network conditions.
   - Developed comprehensive healthcare modules, including interactive medication tracking, therapy reminders, prescription management, and detailed patient history records.
   - Collaborated cross-functionally with backend engineering teams to refine and stabilize APIs, significantly improving overall system reliability and data synchronization.
+
+#### [instax Biz : Media & Image Platform](https://apps.apple.com/in/app/instax-biz/id1634173181)
+- **Tech Stack:** Swift,UIKit, SwiftUI, C++, OpenCV, Apple Vision,MLKit, Metal, AVFoundation, Core Image,BLE, Core Data, MVVM
+- **Key Highlights:** 
+  - Optimized the Core Image pipeline to stabilize application performance, successfully reducing memory usage by 30–40% and improving crash-free session rates by ~25%.
+  - Engineered a cross-platform image correction system in C++ using OpenCV and built a low-latency, GPU-accelerated live camera segmentation feature utilizing Apple Vision and Metal.
+  - Modernized legacy codebases by migrating to MVVM and Clean Architecture, accelerating new feature development by adopting SwiftUI.
+  - Developed reusable AVFoundation frameworks adopted across multiple engineering teams, alongside robust Core Data offline persistence and background network retry mechanisms.
+  - Mentored junior engineers, led cross-functional hardware integration initiatives, and implemented parameterized event tracking (Google Analytics, PostHog) to drive data-informed product decisions.
 
 ### Github
 #### [🤖 Apple Intelligence Chat Assistant](https://github.com/vijithvg/Apple-Intelligence-Chat-Assistant)
