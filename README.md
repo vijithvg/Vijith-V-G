@@ -55,6 +55,10 @@ A high-performance iOS application engineered for real-time, ball-by-ball scorin
 #### [🤖 Umpire Tracker(WatchOS)](https://github.com/vijithvg/Umpire-Tracker)
 A tap-based watchOS application designed for local cricket matches and net sessions. It allows umpires to seamlessly log balls, runs, extras, and wickets directly from their wrist, eliminating the need to pull out a smartphone between deliveries.
 * **Tech Stack:** Swift, SwiftUI, MVVM, Swift Concurrency.
+
+* #### [🤖 Image Picker(Framework)](https://github.com/vijithvg/Custom-Image-Picker-iOS)
+A modern, lightweight iOS framework for fetching and selecting photos from the user's device. Built entirely from scratch using Apple's Photos framework, this library leverages modern Swift concurrency (async/await) and provides native support for both SwiftUI and UIKit.
+* **Tech Stack:** Swift, SwiftUI, MVVM, Swift Concurrency, Swift Testing.
   
 ## 📈 GitHub Stats
 
