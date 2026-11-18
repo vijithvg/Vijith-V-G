@@ -4,12 +4,20 @@ I am a Senior iOS Engineer based in Thiruvananthapuram, India, with 6 years of e
 
 ## 🛠 Core Skills & Tech Stack
 
-* **Languages & Concurrency:** Swift, SwiftUI, UIKit, Combine, GCD, Swift Concurrency (async/await, actors)
-* **Architecture:** MVVM, Clean Architecture, Modular Architecture, Coordinator Pattern, Protocol-Oriented Programming
-* **Specialized Frameworks:** AVFoundation, Core Image, Core Graphics, Bluetooth Low Energy (BLE)
+* **Languages & Core iOS:** Swift, SwiftUI, UIKit
+* **Architecture:** MVC, MVVM, Clean Architecture, Modular Architecture
+* **Design Patterns:** Coordinator, Protocol-Oriented Programming (POP), Dependency Injection, Singleton, Observer
+* **Concurrency & Reactive Programming:** Swift Concurrency (async/await, actors, MainActor, TaskGroup), Grand Central Dispatch (GCD), Operation Queue, Combine
+* **Networking & APIs:** GraphQL, RESTful APIs, JSON, Certificate Pinning
 * **Data & Storage:** Core Data, Offline-First Development, Background Synchronization
-* **CI/CD & Tools:** Xcode, Git, Swift Package Manager (SPM), CocoaPods, TestFlight, App Store Connect
-* **Additional:** Flutter, Dart, LLMs, XCTest, Firebase Crashlytics
+* **Media & Specialized Frameworks:** AVFoundation, AVPlayer, Core Image, Core Graphics, OpenCV
+* **Hardware Integration:** Bluetooth Low Energy (BLE), Device Hardware Integration
+* **Performance Engineering:** ARC & Memory Management, Retain Cycle Debugging, Instruments Profiling, App Lifecycle Optimization
+* **Testing & Quality Assurance:** XCTest, UI Testing, Mocking, Code Coverage
+* **App Capabilities & Analytics:** Push Notifications, Deep Linking, Payment Gateways, GA4, PostHog, Firebase Crashlytics
+* **Tooling, CI/CD & Deployment:** Xcode, Git, Swift Package Manager (SPM), CocoaPods, TestFlight, App Store Connect
+* **Cross-Platform:** Flutter, Dart
+* **AI Assisted Development:** GitHub Copilot
 
 ## Projects
 ### App Store
@@ -18,7 +26,6 @@ I am a Senior iOS Engineer based in Thiruvananthapuram, India, with 6 years of e
 - **Key Highlights:** 
   - Spearheaded a comprehensive UI revamp using UIKit, seamlessly integrating modern design patterns while preserving and optimizing core legacy functionalities.
   - Engineered secure biometric authentication (Face ID/Touch ID) utilizing Apple's Keychain for encrypted credential storage.
-  - 
 #### [SkoolBeep: Education Platform](https://apps.apple.com/in/app/skoolbeep/id991826838)
 - **Tech Stack:** Swift,Objective-C, UIKit, AVFoundation (AVPlayer), Background Synchronization, Local File Storage
 - **Key Highlights:** 
