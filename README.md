@@ -1,6 +1,6 @@
 # Hi there, I'm Vijith V G 👋
 
-I am a Senior iOS Engineer based in Thiruvananthapuram, India, with 6 years of experience building scalable, high-performance iOS applications. I specialize in iOS, memory optimization, and clean architectures across media processing, hardware-integrated systems, e-commerce, education, and healthcare domains.
+Senior iOS Engineer with 6 years of experience architecting and delivering scalable, high-performance iOS applications across diverse domains including e-commerce, healthcare, education, finance, and hardware-integrated systems. Proficient in Swift, SwiftUI, UIKit, and clean, modular architectures (MVVM, Clean Architecture), with strong expertise in performance engineering, memory optimization, and offline-first persistence. Proven technical leader who has guided teams of iOS developers from requirements analysis and feature planning through production release, collaborating closely with backend, firmware, QA, and product stakeholders. Demonstrated track record of improving app stability, optimizing performance, and accelerating developer velocity through reusable architecture, code reviews, and mentorship.
 
 ## 🛠 Core Skills & Tech Stack
 
