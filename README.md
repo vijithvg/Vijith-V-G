@@ -66,10 +66,6 @@ A tap-based watchOS application designed for local cricket matches and net sessi
 #### [🤖 Image Picker(Framework)](https://github.com/vijithvg/Custom-Image-Picker-iOS)
 A modern, lightweight iOS framework for fetching and selecting photos from the user's device. Built entirely from scratch using Apple's Photos framework, this library leverages modern Swift concurrency (async/await) and provides native support for both SwiftUI and UIKit.
 * **Tech Stack:** Swift, SwiftUI, MVVM, Swift Concurrency, Swift Testing.
-  
-## 📈 GitHub Stats
-
-![Vijith's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijithvg&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
 
